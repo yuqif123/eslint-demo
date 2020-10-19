@@ -115,6 +115,9 @@ export default {
   methods: {
     show() {
       // console.log('hehe')// 测试precommit
+    },
+    // 我改变了一些东西，打个tag
+    testTag() {
     }
   }
 }
