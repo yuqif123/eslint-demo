@@ -116,8 +116,8 @@ export default {
     show() {
       // console.log('hehe')// 测试precommit
     },
-    // 测试5tag
-    tag5() {
+    // 准备上线了
+    readyOnline() {
     }
   }
 }
