@@ -114,7 +114,7 @@ export default {
   },
   methods: {
     show() {
-      console.log('hehe')// weifdsfsd
+      console.log('hehe')//weifdsfsd
     }
   }
 }
