@@ -114,7 +114,7 @@ export default {
   },
   methods: {
     show() {
-      console.log('hehe')//测试precommit
+      // console.log('hehe')// 测试precommit
     }
   }
 }
