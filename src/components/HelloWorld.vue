@@ -116,8 +116,8 @@ export default {
     show() {
       // console.log('hehe')// 测试precommit
     },
-    // 准备上线了
-    readyOnline() {
+    // 上线失败，想回滚
+    failOnline() {
     }
   }
 }
