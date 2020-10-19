@@ -116,8 +116,8 @@ export default {
     show() {
       // console.log('hehe')// 测试precommit
     },
-    // 第三个tag，删除tag2
-    tag3() {
+    // 测试5tag
+    tag5() {
     }
   }
 }
