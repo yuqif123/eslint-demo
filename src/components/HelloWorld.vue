@@ -118,6 +118,10 @@ export default {
     },
     // 准备上线了
     readyOnline() {
+    },
+    // 此内容来自test-merge分支
+    fromTestMerge() {
+
     }
   }
 }
