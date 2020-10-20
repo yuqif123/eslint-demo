@@ -119,8 +119,8 @@ export default {
     // 准备上线了
     readyOnline() {
     },
-    // 此内容来自test-merge分支
-    fromTestMerge() {
+    // 删除一些内容，重新创建一个方法
+    resetMerge() {
 
     }
   }
