@@ -116,8 +116,12 @@ export default {
     show() {
       // console.log('hehe')// 测试precommit
     },
-    // 上线失败，想回滚
-    failOnline() {
+    // 准备上线了
+    readyOnline() {
+    },
+    // 此内容来自test-merge分支
+    fromTestMerge() {
+
     }
   }
 }
