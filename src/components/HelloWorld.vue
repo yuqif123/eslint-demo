@@ -121,7 +121,7 @@ export default {
     },
     // 删除一些内容，重新创建一个方法
     resetMerge() {
-      let a = 'b'
+      const a = 'b'
       return a
     },
     // 再增加方法
